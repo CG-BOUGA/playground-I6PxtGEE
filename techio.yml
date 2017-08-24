@@ -1,5 +1,5 @@
-title: Simple Bash template
+title: Simple Groovy template
 
 plan:
-  - title: Bash Snippet
+  - title: Groovy Snippet
     statement: statement.md
